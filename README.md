@@ -47,8 +47,7 @@ Hi! I am a Junior Tech Enthusiast focused on DevOps, Cybersecurity, and Data, ac
 ### 📊 GitHub Stats & Activity:
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=paulodmourz&show_icons=true&theme=tokyonight&title_color=0A84FF&icon_color=0A84FF&text_color=c0caf5&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paulodmourz&layout=compact&theme=tokyonight&title_color=0A84FF&text_color=c0caf5&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=paulomourz&show_icons=true&theme=tokyonight&title_color=0A84FF&icon_color=0A84FF&text_color=c0caf5&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paulomourz&layout=compact&theme=tokyonight&title_color=0A84FF&text_color=c0caf5&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=120&section=footer"/>
